@@ -5,7 +5,7 @@
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://katcontrerasdev.github.io/run-buddy/
 
 ## Contribution
 Made with <3 by Kat
